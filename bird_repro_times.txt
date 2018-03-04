@@ -1,4 +1,4 @@
-CommonName	SciName	Pair_form_min	Pair_form_max	Site_selec_min	Site_selec_max	Nest_build_min	Nest_build_max	Pre_laying_min	Pre_laying_max	Egg_laying_min	Egg_laying_max	Incubation_min	Incubation_max	Nestling_min	Nesting_max	Post_fledging_min	Post_fledging_max	Source	Notes
-Red-eyed Vireo	Vireo olivaceus	3	15	5	6	4	5	1	4	3	4	12	14	10	12	15	16	BNA	
-Yellow Warbler	Setophaga petechia	1	1	NA	NA	3	10	NA	NA	4	5	10	13	8	10	17	21	BNA	
-Eastern Wood-Pewee	Contopus virens	NA	NA	NA	NA	NA	NA	NA	NA	2	4	12	14	16	18	NA	NA	BNA	
+CommonName	SciName	Location	Study_year_min	Study_year_max	Study_year_pub	Arrival_date_min	Arrival_date_mean	Arrival_date_max	Pair_form_min	Pair_form_max	Site_selec_min	Site_selec_max	Nest_build_min	Nest_build_max	Pre_laying_min	Pre_laying_max	Egg_laying_min	Egg_laying_max	Incubation_min	Incubation_max	Nestling_min	Nesting_max	Post_fledging_min	Post_fledging_max	Source	Notes
+Red-eyed Vireo	Vireo olivaceus								3	15	5	6	4	5	1	4	3	4	12	14	10	12	15	16	BNA	
+Yellow Warbler	Setophaga petechia								1	1	NA	NA	3	10	NA	NA	4	5	10	13	8	10	17	21	BNA	
+Eastern Wood-Pewee	Contopus virens								NA	NA	NA	NA	NA	NA	NA	NA	2	4	12	14	16	18	NA	NA	BNA	
