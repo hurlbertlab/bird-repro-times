@@ -6,6 +6,10 @@ Data will be compiled from these sources:
 * [Birds of North America](birdsna.org)
 * Ehrlich et al. 1988. The Birder's Handbook. Simon & Schuster, New York.
 
+## Methods
+Look up each species in [Birds of North America](birdsna.org) and go to the "Breeding Phenology" page, and 
+extract information on the traits below.
+
 ## Traits
 Record min and max values for the following traits, all measured in days:
 * Pair_form: time from arrival on breeding grounds until pair formation
@@ -51,3 +55,5 @@ Canada Warbler
 Scarlet Tanager
 Summer Tanager
 Rose-breasted Grosbeak
+
+##
