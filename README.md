@@ -3,7 +3,7 @@ For a set of migratory birds of eastern temperate forest, we aim to extract all 
 
 ## Data Sources
 Data will be compiled from these sources:
-* [Birds of North America](birdsna.org)
+* [Birds of North America](https://birdsna.org)
 * Ehrlich et al. 1988. The Birder's Handbook. Simon & Schuster, New York.
 
 ## Methods
