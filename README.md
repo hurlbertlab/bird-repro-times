@@ -27,33 +27,33 @@ Record min and max values for the following traits, all measured in days:
 
 ## Focal species
 To start, we focus on the following species:
-Acadian Flycatcher
-Great Crested Flycatcher
-Eastern Wood Pewee
-Red-eyed Vireo
-Blue-headed Vireo
-Warbling Vireo
-Yellow-throated Vireo
-Veery
-Gray Catbird
-Yellow-throated Warbler
-Swainson's Warbler
-Hooded Warbler
-Kentucky Warbler
-Louisiana Waterthrush
-Northern Waterthrush
-Black-and-white Warbler
-Northern Parula
-American Redstart
-Worm-eating Warbler
-Black-throated Green Warbler, subspecies waynei
-Black-throated Blue Warbler
-Prothonotary Warbler
-Cerulean Warbler
-Ovenbird
-Canada Warbler
-Scarlet Tanager
-Summer Tanager
-Rose-breasted Grosbeak
+Acadian Flycatcher  
+Great Crested Flycatcher  
+Eastern Wood Pewee  
+Red-eyed Vireo  
+Blue-headed Vireo  
+Warbling Vireo  
+Yellow-throated Vireo  
+Veery  
+Gray Catbird  
+Yellow-throated Warbler  
+Swainson's Warbler  
+Hooded Warbler  
+Kentucky Warbler  
+Louisiana Waterthrush  
+Northern Waterthrush  
+Black-and-white Warbler  
+Northern Parula  
+American Redstart  
+Worm-eating Warbler  
+Black-throated Green Warbler, subspecies waynei  
+Black-throated Blue Warbler  
+Prothonotary Warbler  
+Cerulean Warbler  
+Ovenbird  
+Canada Warbler  
+Scarlet Tanager  
+Summer Tanager  
+Rose-breasted Grosbeak  
 
 ##
