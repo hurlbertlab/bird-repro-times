@@ -26,7 +26,7 @@ Record min and max values for the following traits, all measured in days:
 * We would like information on _first_ nesting attempts.
 
 ## Focal species
-To start, we focus on the following species:
+To start, we focus on the following species:  
 Acadian Flycatcher  
 Great Crested Flycatcher  
 Eastern Wood Pewee  
