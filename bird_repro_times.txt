@@ -1,8 +1,8 @@
-CommonName	SciName	Location	Study_year_min	Study_year_max	Study_year_pub	Arrival_date_min	Arrival_date_mean	Arrival_date_max	Nest_build_date_min	Nest_build_date_peak	Nest_build_date_max	Egg_laying_date_min	Egg_laying_date_max	Pair_form_d_min	Pair_form_d_max	Site_selec_d_min	Site_selec_d_max	Nest_build_d_min	Nest_build_d_max	Pre_laying_d_min	Pre_laying_d_max	Egg_laying_d_min	Egg_laying_d_max	Incubation_d_min	Incubation_d_max	Nestling_d_min	Nesting_d_max	Post_fledging_d_min	Post_fledging_d_max	Source	Notes
-Red-eyed Vireo	Vireo olivaceus	Ontario			1953				28-May-53					3	15			4	5	1	4	3	4							Lawrence 1953	
-Red-eyed Vireo	Vireo olivaceus	Illinois			1985				7-May-85			15-May-85																		Graber et al. 1985	
-Red-eyed Vireo	Vireo olivaceus	NE Ontario			1974							24-May-74																		Rice 1974	
-Red-eyed Vireo	Vireo olivaceus	British Columbia			1997							23-May-97	19-Jul-97			5	6													Campbell et al. 1997	
-Red-eyed Vireo	Vireo olivaceus																					3	4	12	14	10	12	15	16	BNA	
-Yellow Warbler	Setophaga petechia													1	1	NA	NA	3	10	NA	NA	4	5	10	13	8	10	17	21	BNA	
-Eastern Wood-Pewee	Contopus virens													NA	NA	NA	NA	NA	NA	NA	NA	2	4	12	14	16	18	NA	NA	BNA	
+CommonName	SciName	Location	Study_year_min	Study_year_max	Study_year_pub	Arrival_date_min	Arrival_date_mean	Arrival_date_max	Nest_build_date_min	Nest_build_date_peak	Nest_build_date_max	Egg_laying_date_min	Egg_laying_date_max	Pair_form_d_min	Pair_form_d_max	Site_selec_d_min	Site_selec_d_max	Nest_build_d_min	Nest_build_d_mean	Nest_build_d_max	Pre_laying_d_min	Pre_laying_d_max	Egg_laying_d_min	Egg_laying_d_max	Incubation_d_min	Incubation_d_max	Nestling_d_min	Nesting_d_max	Post_fledging_d_min	Post_fledging_d_max	Source	Notes
+Red-eyed Vireo	Vireo olivaceus	Ontario			1953				28-May-53					3	15			4		5	1	4	3	4							Lawrence 1953	
+Red-eyed Vireo	Vireo olivaceus	Illinois			1985				7-May-85			15-May-85																			Graber et al. 1985	
+Red-eyed Vireo	Vireo olivaceus	NE Ontario			1974							24-May-74																			Rice 1974	
+Red-eyed Vireo	Vireo olivaceus	British Columbia			1997							23-May-97	19-Jul-97			5	6														Campbell et al. 1997	
+Red-eyed Vireo	Vireo olivaceus																						3	4	12	14	10	12	15	16	BNA	
+Yellow Warbler	Setophaga petechia													1	1	NA	NA	3		10	NA	NA	4	5	10	13	8	10	17	21	BNA	
+Eastern Wood-Pewee	Contopus virens													NA	NA	NA	NA	NA		NA	NA	NA	2	4	12	14	16	18	NA	NA	BNA	
