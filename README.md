@@ -7,7 +7,7 @@ Data will be compiled from these sources:
 * Ehrlich et al. 1988. The Birder's Handbook. Simon & Schuster, New York.
 
 ## Methods
-Look up each species in [Birds of North America](birdsna.org) and go to the "Breeding Phenology" page, and 
+Look up each species in [Birds of North America](https://birdsna.org) and go to the "Breeding Phenology" page, and 
 extract information on the traits below.
 
 ## Traits
