@@ -7,7 +7,7 @@ Data will be compiled from these sources:
 * Ehrlich et al. 1988. The Birder's Handbook. Simon & Schuster, New York.
 
 ## Methods
-Look up each species in [Birds of North America](birdsna.org) and go to the "Breeding Phenology" page, and 
+Look up each species in [Birds of North America](https://birdsna.org) and go to the "Breeding Phenology" page, and 
 extract information on the traits below.
 
 ## Traits
@@ -26,34 +26,34 @@ Record min and max values for the following traits, all measured in days:
 * We would like information on _first_ nesting attempts.
 
 ## Focal species
-To start, we focus on the following species:
-Acadian Flycatcher
-Great Crested Flycatcher
-Eastern Wood Pewee
-Red-eyed Vireo
-Blue-headed Vireo
-Warbling Vireo
-Yellow-throated Vireo
-Veery
-Gray Catbird
-Yellow-throated Warbler
-Swainson's Warbler
-Hooded Warbler
-Kentucky Warbler
-Louisiana Waterthrush
-Northern Waterthrush
-Black-and-white Warbler
-Northern Parula
-American Redstart
-Worm-eating Warbler
-Black-throated Green Warbler, subspecies waynei
-Black-throated Blue Warbler
-Prothonotary Warbler
-Cerulean Warbler
-Ovenbird
-Canada Warbler
-Scarlet Tanager
-Summer Tanager
-Rose-breasted Grosbeak
+To start, we focus on the following species:  
+Acadian Flycatcher  
+Great Crested Flycatcher  
+Eastern Wood Pewee  
+Red-eyed Vireo  
+Blue-headed Vireo  
+Warbling Vireo  
+Yellow-throated Vireo  
+Veery  
+Gray Catbird  
+Yellow-throated Warbler  
+Swainson's Warbler  
+Hooded Warbler  
+Kentucky Warbler  
+Louisiana Waterthrush  
+Northern Waterthrush  
+Black-and-white Warbler  
+Northern Parula  
+American Redstart  
+Worm-eating Warbler  
+Black-throated Green Warbler, subspecies waynei  
+Black-throated Blue Warbler  
+Prothonotary Warbler  
+Cerulean Warbler  
+Ovenbird  
+Canada Warbler  
+Scarlet Tanager  
+Summer Tanager  
+Rose-breasted Grosbeak  
 
 ##
