@@ -6,3 +6,4 @@ Red-eyed Vireo	Vireo olivaceus	British Columbia			1997							23-May-97	19-Jul-97
 Red-eyed Vireo	Vireo olivaceus																						3	4	12	14	10	12	15	16	BNA	
 Yellow Warbler	Setophaga petechia													1	1	NA	NA	3		10	NA	NA	4	5	10	13	8	10	17	21	BNA	
 Eastern Wood-Pewee	Contopus virens													NA	NA	NA	NA	NA		NA	NA	NA	2	4	12	14	16	18	NA	NA	BNA	
+Acadian Flycatcher	Empidonax virescens													4	7	1	10	NA	NA	NA	1	2	1	4	13	15	NA	14	NA	NA	BNA	
