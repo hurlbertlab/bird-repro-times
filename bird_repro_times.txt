@@ -11,3 +11,4 @@ Great Crested Flycatcher	Myiarchus crinitus													NA	NA	6	28	2	NA	4	NA	NA	
 Eastern Wood-Pewee	Contopus virens													NA	NA	NA	NA	4	6	10	NA	NA	2	4	12	14	11	18	21	28	BNA	
 Red-eyed Vireo	Vireo olivaceus													3	15	NA	NA	4	NA	5	1	4	3	4	12	14	10	12	15	16	BNA	
 Blue-headed Vireo	Vireo solitarius													1	16	1	28	NA	NA	8	NA	NA	3	4	13	14	12	13	14	28	BNA	
+Warbling Vireo	Vireo gilvus													1	4	2	7	6	NA	7	1	4	3	4	13	14	13	14	NA	14	BNA	
