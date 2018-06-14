@@ -7,8 +7,9 @@ Red-eyed Vireo	Vireo olivaceus																						3	4	12	14	10	12	15	16	BNA
 Yellow Warbler	Setophaga petechia													1	1	NA	NA	3		10	NA	NA	4	5	10	13	8	10	17	21	BNA	
 Eastern Wood-Pewee	Contopus virens													NA	NA	NA	NA	NA	NA	NA	NA	NA	2	4	12	14	16	18	NA	NA	BNA	
 Acadian Flycatcher	Empidonax virescens													4	7	3	10	NA	3.38	14	NA	NA	1	4	13	15	NA	14	NA	NA	BNA	
-Great Crested Flycatcher	Myiarchus crinitus													NA	NA	6	28	2	NA	4	NA	NA	4	8	13	15	13	16	9	21	BNA	
+Great Crested Flycatcher	Myiarchus crinitus													NA	NA	6	28	2	NA	4	NA	NA	4	5	13	15	13	16	9	21	BNA	
 Eastern Wood-Pewee	Contopus virens													NA	NA	NA	NA	4	6	10	NA	NA	2	4	12	14	11	18	21	28	BNA	
 Red-eyed Vireo	Vireo olivaceus													3	15	NA	NA	4	NA	5	1	4	3	4	12	14	10	12	15	16	BNA	
 Blue-headed Vireo	Vireo solitarius													1	16	1	28	NA	NA	8	NA	NA	3	4	13	14	12	13	14	28	BNA	
 Warbling Vireo	Vireo gilvus													1	4	2	7	6	NA	7	1	4	3	4	13	14	13	14	NA	14	BNA	
+Yellow-throated Vireo	Vireo flavifrons													1	3	NA	NA	NA	NA	8	NA	1	3	4	13	16	13	NA	14	28	BNA	
