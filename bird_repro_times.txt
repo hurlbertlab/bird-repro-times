@@ -19,3 +19,4 @@ Yellow-throated Warbler	Setophaga dominica													NA	11	NA	NA	NA	NA	NA	NA	1
 Swainson's Warbler	Limnothlypis swainsonii													1	7	3	4	2	NA	5	2	3	3	4	11	15	8	12	NA	21	BNA	
 Hooded Warbler	Setophaga citrina													NA	NA	NA	NA	2	NA	6	NA	NA	2	5	12	NA	8	9	21	35	BNA	
 Kentucky Warbler	Geothlypis formosa													0	1	0	7	1	NA	2	1	NA	3	6	11	13	7	10	NA	30	BNA	
+Louisiana Waterthrush														0	7	1	NA	1	NA	14	0	7	1	5	12	14	9	11	21	28	BNA	
