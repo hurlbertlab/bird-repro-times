@@ -23,3 +23,4 @@ Louisiana Waterthrush	Parkesia motacilla													0	7	1	NA	1	NA	14	0	7	1	5	12
 Nothern Waterthrush	Parkesia noveboracensis													0	NA	NA	NA	NA	NA	NA	NA	NA	1	6	12	NA	9	NA	28	35	BNA	
 Black-and-white Warbler	Mniotilta varia													NA	NA	NA	NA	NA	NA	NA	NA	NA	4	5	10	12	8	12	NA	NA	BNA	
 Northern Parula	Setophaga americana													NA	NA	NA	NA	1	NA	4			2	7	12	14	10	11	NA	NA	BNA	
+American Redstart	Setophaga ruticilla													0	2	0	NA	3	NA	10												
