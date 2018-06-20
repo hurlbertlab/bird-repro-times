@@ -22,5 +22,5 @@ Kentucky Warbler	Geothlypis formosa													0	1	0	7	1	NA	2	1	NA	3	6	11	13	7	
 Louisiana Waterthrush	Parkesia motacilla													0	7	1	NA	1	NA	14	0	7	1	5	12	14	9	11	21	28	BNA	
 Nothern Waterthrush	Parkesia noveboracensis													0	NA	NA	NA	NA	NA	NA	NA	NA	1	6	12	NA	9	NA	28	35	BNA	
 Black-and-white Warbler	Mniotilta varia													NA	NA	NA	NA	NA	NA	NA	NA	NA	4	5	10	12	8	12	NA	NA	BNA	
-Northern Parula	Setophaga americana													NA	NA	NA	NA	1	NA	4			2	7	12	14	10	11	NA	NA	BNA	
-American Redstart	Setophaga ruticilla													0	2	0	NA	3	NA	10												
+Northern Parula	Setophaga americana													NA	NA	NA	NA	1	NA	4	NA	NA	2	7	12	14	10	11	NA	NA	BNA	
+American Redstart	Setophaga ruticilla													0	2	0	NA	3	NA	10	NA	NA	3	5	10	13	7	9	NA	21	BNA	
