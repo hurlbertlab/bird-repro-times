@@ -14,7 +14,7 @@ Blue-headed Vireo	Vireo solitarius													1	16	1	28	NA	NA	8	NA	NA	3	4	13	14
 Warbling Vireo	Vireo gilvus													1	4	2	7	6	NA	7	1	4	3	4	13	14	13	14	NA	14	BNA	
 Yellow-throated Vireo	Vireo flavifrons													1	3	NA	NA	NA	NA	8	NA	1	3	4	13	16	13	NA	14	28	BNA	
 Veery	Catharus fuscescens													7	NA	NA	NA	NA	NA	NA	NA	4	2	4	10	14	10	12	14	17	BNA	
-Gray Catbird	Dumetella carolinensis													1	NA	NA	NA	5	NA	6	1	6	1	5	12	15	8	15	1	12	BNA	
+Gray Catbird	Dumetella carolinensis													1	NA	NA	NA	5	NA	6	1	6	1	5	12	15	8	15	NA	12	BNA	
 Yellow-throated Warbler	Setophaga dominica													NA	11	NA	NA	NA	NA	NA	NA	11	3	5	12	13	NA	10	NA	NA	BNA	
 Swainson's Warbler	Limnothlypis swainsonii													1	7	3	4	2	NA	5	2	3	3	4	11	15	8	12	NA	21	BNA	
 Hooded Warbler	Setophaga citrina													NA	NA	NA	NA	2	NA	6	NA	NA	2	5	12	NA	8	9	21	35	BNA	
@@ -27,3 +27,4 @@ American Redstart	Setophaga ruticilla													0	2	0	NA	3	NA	10	NA	NA	3	5	10	
 Worm-eating Warbler	Helmitheros vermivorum													NA	7	NA	NA	4	NA	5	1	2	4	6	11	17	5	10	NA	21	BNA	
 "Black-throated Green Warbler, subspecies waynei"	Setophaga virens waynei													NA	NA	NA	NA	4	NA	8	0	1	3	5	12	NA	8	11	2	NA	BNA	
 Black-throated Blue Warbler	Setophaga caerulescens													NA	NA	3	14	4	NA	5	NA	NA	2	5	12	13	8	10	14	28	BNA	
+Prothonotary Warbler	Protonotaria citrea													NA	NA	NA	NA	3.3	NA	8.8	NA	NA	3	7	12	14	9	10	NA	35	BNA	
