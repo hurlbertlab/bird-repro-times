@@ -29,3 +29,8 @@ Worm-eating Warbler	Helmitheros vermivorum													NA	7	NA	NA	4	NA	5	1	2	4	6
 Black-throated Blue Warbler	Setophaga caerulescens													NA	NA	3	14	4	NA	5	NA	NA	2	5	12	13	8	10	14	28	BNA	
 Prothonotary Warbler	Protonotaria citrea													NA	NA	NA	NA	3.3	NA	8.8	NA	NA	3	7	12	14	9	10	NA	35	BNA	
 Cerulean Warbler	Setophaga cerulea													NA	NA	NA	NA	2	5.4	11	NA	NA	2	5	11	12	8	11	NA	NA	BNA	
+Ovenbird	Seiurus aurocapilla													NA	NA	NA	NA	5	NA	NA	NA	NA	3	6	NA	14	8	10	NA	NA	BNA	
+Canada Warbler	Cardellina canadensis													NA	NA	NA	NA	3	NA	5	NA	NA	2	6	11	12	8	NA	12	18	BNA	
+Scarlet Tanager	Piranga olivacea													0	NA	NA	7	3	NA	4	NA	2	3	5	12	14	9	12	10	14	BNA	
+Summer Tanager	Piranga rubra													0	1	NA	NA	4	NA	18	NA	NA	3	4	11	12	9	12	21	NA	BNA	
+Rose-breasted Grosbeak	Pheucticus ludovicianus													NA	NA	NA	NA	2	NA	5	NA	NA	1	5	11	14	9	12	21	NA	BNA	
