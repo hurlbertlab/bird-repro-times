@@ -3,6 +3,8 @@ Red-eyed Vireo	Vireo olivaceus	Ontario	1940	1950	1953	1-May	19-May	24-May	28-May
 Red-eyed Vireo	Vireo olivaceus	Illinois			1985				7-May-85			15-May-85																								Graber et al. 1985	
 Red-eyed Vireo	Vireo olivaceus	NE Ontario			1974							24-May-74																								Rice 1974	
 Red-eyed Vireo	Vireo olivaceus	British Columbia			1997							23-May-97	19-Jul-97								5	6														Campbell et al. 1997	
+Red-eyed Vireo	Vireo olivaceus	University of Michigan Biological Station	1947	1949	1949																			4.5						13						Grave 1949	nesting observations all of second broods in July
+Red-eyed Vireo	Vireo olivaceus	Detroit Michigan			1912	28-Apr-12		7-May-12																												Barrows 1912	cited in Grave 1949
 Red-eyed Vireo	Vireo olivaceus																											3	4	12	14	10	12	15	16	BNA	
 Yellow Warbler	Setophaga petechia																		1	1	NA	NA	3		10	NA	NA	4	5	10	13	8	10	17	21	BNA	
 Eastern Wood-Pewee	Contopus virens																		NA	NA	NA	NA	NA	NA	NA	NA	NA	2	4	12	14	16	18	NA	NA	BNA	
